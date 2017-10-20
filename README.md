@@ -14,7 +14,7 @@ Game made using the patterns Flyweight and Factory, using the Unity3D project Ro
 Created under the mentorship of Molina as part of the Software Engineering course in the bolivian UCB:
 
 * System Designer
-* Programer
+* Programmer
 
 ## Installation
 
