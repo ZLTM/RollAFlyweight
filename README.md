@@ -1,36 +1,31 @@
-# Taki Runa
-> Videogame made for the 2016 Bolivian GGJ
+# RollAFlyweight
+> Videogame made using the flyweight and factory patterns
 
 [![Type](https://img.shields.io/badge/Type-Videogame-945C1D.svg)](https://github.com/ZLTM/Taki)
-[![Genre](https://img.shields.io/badge/Genre-Sensation-DDA76A.svg)](https://packagist.org/packages/phpunit/phpunit)
-[![State](https://img.shields.io/badge/State-Beta-2C834F.svg)](https://packagist.org/packages/phpunit/phpunit)
+[![Genre](https://img.shields.io/badge/Genre-Concept-DDA76A.svg)](https://packagist.org/packages/phpunit/phpunit)
+[![State](https://img.shields.io/badge/State-Done-2C834F.svg)](https://packagist.org/packages/phpunit/phpunit)
 [![License](https://img.shields.io/badge/License-Apache%202--0-343E7D.svg)](https://packagist.org/packages/phpunit/phpunit)
 
 
-Game made following the theme "Ritual", it showcases the Bolivian culture old rituals by putting the player in the shoes of a yatiri (kind of like a shaman) accomplishing this using the movement tracking of [MYO](https://www.myo.com/).
-
-## Important
-**Due to legal issues I'm no longer able to provide the game exe, however I can still show the code.**
-
-![](sol-04.gif)
+Game made using the patterns Flyweight and Factory, using the Unity3D project Roll A Ball as a starting point.
 
 ## Participation
 
-In this project I was able to participate together with the bolivian game studio GESH as a:
+Created under the mentorship of Molina as part of the Software Engineering course in the bolivian UCB:
 
-* Game Designer: My first time designing a rythm game, also my first time using movement tracking.
-* Programer: Developed the rythm mechanic, helped with the demons movement.
+* System Designer
+* Programer
 
 ## Installation
 
 Windows:
 
-This game requires [MYO](https://www.myo.com/), after instaling it just open the game and play!
-
+Download the folder exe and launche the .exe file from inside the folder.
+Can also be played from the unity editor by downloading all the proyect except the exe folder, open it in the Unity3D editor and hit play.
 
 ## Gameplay
 
-As the hordes of demons aproaches you will purify them by moving your hands at the rythm of the beat marked by the circle.
+The "game" proof the flyweight and factory patterns by creating diferent geometrys without compromising the pc resources.
 
 ## Contact
 
