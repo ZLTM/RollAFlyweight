@@ -25,7 +25,7 @@ Can also be played from the unity editor by downloading all the proyect except t
 
 ## Gameplay
 
-The "game" proof the flyweight and factory patterns by creating diferent geometrys without compromising the pc resources.
+Tests the functionality of the flyweight and factory patterns by creating diferent geometries without compromising the pc resources.
 
 ## Contact
 
