@@ -20,7 +20,7 @@ Created under the mentorship of Molina as part of the Software Engineering cours
 
 Windows:
 
-Download the folder exe and launche the .exe file from inside the folder.
+Download the folder exe and launch the .exe file from inside the folder.
 Can also be played from the unity editor by downloading all the proyect except the exe folder, open it in the Unity3D editor and hit play.
 
 ## Gameplay
